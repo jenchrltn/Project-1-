@@ -20,4 +20,24 @@ Project Description   My app will be a 90's Trivia Game. It's for players who en
 
         //CODING REFERENCES: 
 
-         WILL COME BACK IN AND ADD IN THE VARIOUS SOURCES I USED FOR REFERENCE.
+        For my first project each of the resources service a diffrent purpose, I tried to adapt my own bit of flare to it but these helped to show me how much of the code can be interchangeable. These also served as refrence for how much I did not know and what I have the ability to gain. ALthough my first project did not really turn out how I envisioned I am proud of what I was able to do so far and I hope that this is something I can make time to come back to and mold it a bit more into what I have envisioned. Getting buttons on my project for me was a great accomplishment hopefully they work. 
+
+         Google:
+         1. W3 Schools 
+
+         2. StackOverFlow  
+
+         Youtube: 
+         1. Web Tutorial Guru
+
+         2. Web Dev Simpilfied 
+
+         3. Bitcoin Pizza 
+
+         4. Chart JS 
+
+         5. Code with Ania Kubow 
+
+         6. Learn {to} Code 
+
+         7. 

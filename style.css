@@ -5,23 +5,38 @@
 .body{ 
  text-align: center; 
  border-style: soild;
- border: 3 3 3 3;
- border-radius: 10px; 
- margin-top: 5px;
+ border: 100px;
+ border-radius: 9px; 
+ margin-top: 4px;
 
 }
 
 .question{
  text-align: center; 
  border-style: soild;
- border: ;
- border-radius: 10px; 
- margin-top: 5px;
- margin-left: 15%;
- margin-right: 15%;
+ border: 0;
+ border-radius: 9px; 
+ margin-top: 4px;
+ margin-left: 14%;
+ margin-right: 14%;
  background-color: clear;
- margin-bottom: 5px;
- padding-bottom: 5px;
+ margin-bottom: 4px;
+ padding-bottom: 4px;
+ display: visible;
+}
 
+.button-correct{ 
+ background-color: aquamarine;
+
+}
+
+
+.button-wrong{
+ backgorund-color: pink; 
+
+}
+
+.button-getScore{
+ --hue: purple; 
 }
 
